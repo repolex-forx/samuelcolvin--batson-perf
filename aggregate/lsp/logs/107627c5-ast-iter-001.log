@@ -1,0 +1,7 @@
+[2026-10-11T19:04:35Z] === AST ITERATION 1 START | repo=samuelcolvin/batson-perf sha=107627c5 ===
+[2026-10-11T19:04:35Z] [iter=1] PHASE START: ast repo=samuelcolvin/batson-perf sha=107627c5
+[2026-10-11T19:04:35Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T19:04:36Z] [iter=1] AST chunks built count=1 triples=13453
+[2026-10-11T19:04:36Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/107627c5bab579127d1e2ae0fd9a512b1e2c1fc8/.complete
+[2026-10-11T19:04:36Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-11T19:04:36Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
